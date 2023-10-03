@@ -1,0 +1,19 @@
+{
+  "name": "guess-number",
+  "version": "0.1.0",
+  "description": "CLI game, 3 lives to guess a number between 1 and 100",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node --watch index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NinoScript/guess-number-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NinoScript/guess-number-js/issues"
+  },
+  "homepage": "https://github.com/NinoScript/guess-number-js#readme"
+}
